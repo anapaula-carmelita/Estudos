@@ -60,13 +60,16 @@ def enter_move(board):
         moves += 1
         draw_move(board)
         if moves > 3 and victory_for(board, 'O') == 'O':
+            display_board(board)
             print('You win!! :-)')
             break
         if moves > 8:
+            display_board(board)
             print("Draw! :-|")
             break
         moves += 1
-        if moves > 3 and victory_for(board, 'X') == 'O':
+        if moves > 3 and victory_for(board, 'X') == 'X':
+            display_board(board)
             print('You lose! :-(')
             break
         
@@ -82,6 +85,8 @@ def victory_for(board, sign):
     # the player using 'O's or 'X's has won the game
     o = None
     x = None
+    xd = True
+    od = True
     for i in range(3):
         x = True
         o = True
@@ -104,6 +109,17 @@ def victory_for(board, sign):
             return 'O'
         if x:
             return 'X'
+        
+            
+    if board[0][0] == 'O' and board[1][1] == 'O' and board[2][2] == 'O':
+        return 'O'
+    if board[0][0] == 'X' and board[1][1] == 'X' and board[2][2] == 'X':
+        return 'X'
+    if board[0][2] == 'O' and board[1][1] == 'O' and board[2][0] == 'O':
+        return 'O'
+    if board[0][2] == 'X' and board[1][1] == 'X' and board[2][0] == 'X':
+        return 'X'
+    
 
 def draw_move(board):
     while True:
