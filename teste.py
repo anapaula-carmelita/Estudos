@@ -1,0 +1,1 @@
+print("Abaixo do peso normal, com IMC:" + 0)
