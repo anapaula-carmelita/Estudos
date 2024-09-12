@@ -1,3 +1,11 @@
+/*
+ *  Nome do arquivo: EvenFibonacciNumbers.c
+ *  Descrição: Programa de uma possível solução do problema para encontrar a soma dos múltimos de 3 e 5 menores que N
+ *  Autor: Ana Paula da Silva Souza
+ *  Data: 09/2024
+ *  Versão: 1.0
+ *  Licença: Apache
+ */
 #include <math.h>
 #include <stdio.h>
 #include <string.h>

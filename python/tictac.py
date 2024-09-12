@@ -1,3 +1,11 @@
+#
+#  Nome do arquivo: EvenFibonacciNumbers.py
+#  Descrição: Programa de uma possível solução para simular o jogo Tic Tac Toe (em fase de testes)
+#  Autor: Ana Paula da Silva Souza
+#  Data: 09/2024
+#  Versão: 1.0
+#  Licença: Apache
+#
 import random
 def display_board(board):
     # The function accepts one parameter containing the board's current status
