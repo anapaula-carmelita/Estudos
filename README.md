@@ -18,7 +18,7 @@ O foco atual é a preparação para certificações (PCAP) e o fortalecimento da
 | :--- | :---: | :--- |
 | **HackerRank** | ![Python](https://img.shields.io/badge/-Python-blue) ![C](https://img.shields.io/badge/-C-grey) | ⏸️ *Pausado* |
 | **LeetCode** | ![Python](https://img.shields.io/badge/-Python-blue) | 🔜 *Em breve* |
-| **PCAP** | ![Python](https://img.shields.io/badge/-Python-blue) | 🟢 *Ativo* |
+| **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/labs-pcap)** | ![Python](https://img.shields.io/badge/-Python-blue) | 🟢 *Ativo* | 
 
 ---
 
