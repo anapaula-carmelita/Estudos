@@ -31,6 +31,12 @@ To reflect real-world software development practices, this project bridges the g
 *   **Requirements Analysis:** Documenting the logic and needs for every script before coding.
 *   **DevOps Fundamentals:** Incorporating CI/CD pipelines, automated testing, and separation of concerns to ensure code quality.
 
+## 🗺️ Learning Journey & User Story Map
+
+To bridge the gap between business requirements and technical execution, I mapped out the entire learning journey. Below is the User Story Map that guides the development of each lab:
+
+![https://github.com/anapaula-carmelita/Estudos/blob/capitulo-1/python/python-essentials-2/assets/user-story-map.jpg](assets/user-story-map.jpg)
+
 ## 🚀 What you will find here
 
 The scripts and documentation are organized to demonstrate both coding and analytical skills. Here are the practical concepts applied:
