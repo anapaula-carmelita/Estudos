@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/anapaula-carmelita/Estudos/blob/capitulo-1/python/labs-pcap/image_ia.png?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius:15px; margin-bottom: 20px;" alt="Banner Image Gemini Python">
+  <img src="https://github.com/anapaula-carmelita/Estudos/blob/capitulo-1/python/python-essentials-2/image_ia.png?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius:15px; margin-bottom: 20px;" alt="Banner Image Gemini Python">
 
   # 🐍 Python Essentials 2 - Soluções dos Labs
 
