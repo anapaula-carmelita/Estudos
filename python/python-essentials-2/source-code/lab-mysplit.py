@@ -1,32 +1,33 @@
 #
-#  Nome do arquivo: mysplit.py
-#  Descrição: Programa de uma possível solução do LAB 'You own split' do livro Python Essentials 2
-#  Autor: Ana Paula da Silva Souza
-#  Data: 17/07/2026
-#  Versão: 1.0
-#  Licença: Apache
+#  File name: mysplit.py
+#  Description: A possible solution for the 'Your own split' LAB from Python Essentials 2
+#  Author: Ana Paula da Silva Souza
+#  Date: 2026-07-17
+#  Version: 1.0
+#  License: Apache
 #
 
 def mysplit(strng):
     strng = strng.strip()
-    lista = [] 
+    word_list = [] 
     
     if strng == '':
-        return lista
+        return word_list
 
     s =''
     for c in strng:
         if c == ' ':
-            lista.append(s)
+            if s != '':
+                word_list.append(s)
             s = ''
             continue
         s += c
     if s != '':
-        lista.append(s)
-    return lista
+        word_list.append(s)
+    return word_list
 
 print(mysplit("To be or not to be, that is the question"))
-print(mysplit("To be or not to be,that is the question"))
+print(mysplit("To    be or not to be,that is the question"))
 print(mysplit(" "))
 print(mysplit(" abc "))
 print(mysplit(""))
