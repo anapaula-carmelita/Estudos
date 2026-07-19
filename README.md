@@ -47,7 +47,7 @@ I seek truth in the pages of *La Salette* and exactness in my code.
 ### 📫 Contact
 Feel free to suggest improvements to my code!
 
-[![GitHub Discussions](https://img.shields.io/github/discussions/all/anapaula-carmelita/Estudos)](https://github.com/anapaula-carmelita/Estudos/discussions/1)
+[GitHub Discussions](https://github.com/anapaula-carmelita/Estudos/discussions/1)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anacarmelitana)
 [![Skoob](https://img.shields.io/badge/-Skoob-1abc9c?style=flat&logo=book)](https://www.skoob.com.br/usuario/anacarmelitana)
 
