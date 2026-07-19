@@ -1,54 +1,57 @@
-# 🧠 Lógica, Algoritmos & Problem Solving
+# 🧠 Logic, Algorithms & Problem Solving
 
-Bem-vindo ao meu laboratório de códigos! Este repositório reúne minhas soluções de desafios de programação, focando no aprimoramento da lógica e na eficiência dos algoritmos.
+Welcome to my code laboratory! This repository gathers my programming challenge solutions, focusing on improving logic and algorithm efficiency.
 
-> *"A oração é o melhor algoritmo para organizar as ideias e os pensamentos."* — Ana Paula
+> *"Prayer is the best algorithm to organize ideas and thoughts."* — Ana Paula
 
 ---
 
-## 🎯 Objetivo do Repositório
+## 🎯 Repository Objective
 
-Aqui documento minha rotina de estudos práticos, aplicando conceitos de **Estrutura de Dados** e **Matemática** (alinhado ao meus estudos).
+Here, I document my practical study routine, applying **Data Structures** and **Mathematics** (aligned with my Statistics studies).
 
-O foco atual é a preparação para certificações (PCAP) e o fortalecimento da base em C.
+My current focus is preparing for the PCAP certification and strengthening my foundational skills in C.
 
-### 🗂️ Organização dos Estudos
+### 🗂️ Study Organization
 
-| Plataforma | Linguagens | Status |
+| Platform | Languages | Status |
 | :--- | :---: | :--- |
-| **HackerRank** | ![Python](https://img.shields.io/badge/-Python-blue) ![C](https://img.shields.io/badge/-C-grey) | ⏸️ *Pausado* |
-| **LeetCode** | ![Python](https://img.shields.io/badge/-Python-blue) | 🔜 *Em breve* |
-| **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/labs-pcap)** | ![Python](https://img.shields.io/badge/-Python-blue) | 🟢 *Ativo* | 
+| **HackerRank** | ![Python](https://img.shields.io/badge/-Python-blue) ![C](https://img.shields.io/badge/-C-grey) | ⏸️ *Paused* |
+| **LeetCode** | ![Python](https://img.shields.io/badge/-Python-blue) | 🔜 *Coming soon* |
+| **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/labs-pcap)** | ![Python](https://img.shields.io/badge/-Python-blue) | 🟢 *Active* | 
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
-* **🐍 Python:** Resoluções modernas, focadas em legibilidade e nas bibliotecas padrão (Preparação PCAP).
-* **🇨 C:** A base de tudo. Exercícios focados em alocação de memória, ponteiros e performance.
-* **📊 Estatística:** Aplicação de conceitos matemáticos na resolução de problemas.
-
----
-
-## 👩‍💻 Sobre a Ana
-
-Sou Concursa, Missionária, Mãe e Estudante.
-Busco a verdade nas páginas de *La Salette* e a exatidão nos códigos.
-
-* **Certificações:** PCEP (Python Entry) ✅ | PCAP (Em andamento) ⏳
+* **🐍 Python:** Modern solutions focused on readability and standard libraries (PCAP Preparation).
+* **🇨 C:** The foundation of it all. Exercises focused on memory allocation, pointers, and performance.
+* **📊 Statistics:** Applying mathematical concepts to problem-solving.
 
 ---
 
-### 📫 Contato
-Sinta-se à vontade para sugerir melhorias nos códigos!
+## 👩‍💻 About Ana
+
+I am a Public Sector ICT Analyst, a Missionary, a Mother, and a Student.
+I seek truth in the pages of *La Salette* and exactness in my code.
+
+### 🏆 Certifications & Courses
+
+* **IT Service Management:** ITIL v3 Foundation ✅
+* **Computer Science:** CS50 (Harvard University) ✅
+* **Web Development:** HTML5 (W3C) ✅
+* **Python:** PCEP (Entry-Level) ✅ | PCAP (Associate) ⏳
+
+---
+
+### 📫 Contact
+Feel free to suggest improvements to my code!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anacarmelitana)
 [![Skoob](https://img.shields.io/badge/-Skoob-1abc9c?style=flat&logo=book)](https://www.skoob.com.br/usuario/anacarmelitana)
 
 ---
-*Desenvolvido com 💙, lógica e fé.*
-
-
+*Developed with 💙, logic, and faith.*
 
 Copyright 2026 **Ana Paula da Silva Souza**
 
