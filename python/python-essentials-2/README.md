@@ -8,9 +8,9 @@
 
   ---
 
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Status](https://img.shields.io/badge/Status-Studying-brightgreen?style=for-the-badge)](#)
-  [![PCAP](https://img.shields.io/badge/Focus-PCAP_Certification-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)](#)
+  [![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Status](https://img.shields.io/badge/Status-Studying-A865C9?style=for-the-badge)](#)
+  [![PCAP](https://img.shields.io/badge/Focus-PCAP_Certification-FFA500?style=for-the-badge&logo=python&logoColor=white)](#)
   
 </div>
 
