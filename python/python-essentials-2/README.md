@@ -22,7 +22,7 @@ The primary goal of this material is to deepen my knowledge of modules, packages
 
 ## 🎯 Project Vision and Motivation
 
-I am a Systems Analyst currently transitioning into a **DevOps Engineering** role. 
+I am a Systems Analyst currently transitioning into a **Software Engineering** role. 
 
 To reflect real-world software development practices, this project bridges the gap between business requirements and technical implementation. My methodology for this repository includes:
 
