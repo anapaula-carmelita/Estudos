@@ -1,0 +1,15 @@
+site_name: Projetos e User Stories
+site_description: Documentação do projeto, User Stories e preparativos para o PCAP.
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+
+nav:
+  - Início: requirements-analysis/index.md
+  - Documentação de User Stories:
+      - Visão Geral do Projeto: requirements-analysis/geral.md
+      - User Story Map: requirements-analysis/user_map_story.md
+      - Rascunhos para o LinkedIn: requirements-analysis/drafts_linkedin.md
