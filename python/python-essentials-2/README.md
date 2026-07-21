@@ -1,4 +1,5 @@
 <div align="center">
+
   <img src="image_ia.png?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius:15px; margin-bottom: 20px;" alt="Banner Image Gemini Python">
 
   # 🐍 Python Essentials 2 - Lab Solutions
