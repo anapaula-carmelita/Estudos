@@ -54,25 +54,29 @@ The scripts and documentation are organized to demonstrate both coding and analy
 python-essentials-2/
 │
 ├── .github/workflows/          <-- Automated CI/CD pipelines
-│   └── python-tests.yml
-│
-├── source-code/                <-- Python implementations
-│   ├── palindrome.py
-│   └── sudoku.py
-│
-├── tests/                      <-- Unit tests
-│   ├── test_palindrome.py
-│   └── test_sudoku.py
-│
-├── requirements-analysis/      <-- Business logic and analysis
-│   ├── palindrome.md
-│   └── sudoku.md
+│   └── deploy-docs.yml
 │
 ├── assets/
-│   ├── user-story-map.png
-│   └── diagrams/
+│   └── user-story-map.jpg
+|
+├── requeriments-analysis/          <-- Users stories
+│   └── part1/
+|   └── part2/
+|   └── part3/
+|   └── part4/
+|
+├── source-code/                <-- Python implementations/
+│   ├── lab_01.py
+│   └── lab_02.py
+│   └── .....
 │
-├── Dockerfile                  <-- Containerization
+├── tests/                      <-- Unit tests
+│   ├── test_lab_01.py
+│   └── test_lab_02.py
+│   └── ....
+│
+├── image_ia.png
+├── mkdocs.yml
 └── README.md
 ```
 
