@@ -1,4 +1,3 @@
-#
 #  File name: mysplit.py
 #  Description: A possible solution for the 'Your own split' LAB from Python Essentials 2
 #  Author: Ana Paula da Silva Souza
@@ -31,3 +30,4 @@ print(mysplit("To    be or not to be,that is the question"))
 print(mysplit(" "))
 print(mysplit(" abc "))
 print(mysplit(""))
+print(mysplit("Most Sacred Heart of Jesus, I      trust in You."))
