@@ -181,10 +181,9 @@ python-essentials-2/
 - [ ] LAB-04: Palindromes [#16](https://github.com/anapaula-carmelita/Estudos/issues/16)
 - [ ] LAB-05: Anagrams [#13](https://github.com/anapaula-carmelita/Estudos/issues/13)
 - [ ] LAB-06: Digit of Life [#17](https://github.com/anapaula-carmelita/Estudos/issues/17)
-- [ ] LAB-07: Find a Word [#17](https://github.com/anapaula-carmelita/Estudos/issues/17)
-- [ ] LAB-08: Sudoku [#18](https://github.com/anapaula-carmelita/Estudos/issues/18)
-- [ ] LAB-09: Reading Integers[#19](https://github.com/anapaula-carmelita/Estudos/issues/19)
-- [ ] [#20](https://github.com/anapaula-carmelita/Estudos/issues/20)****
+- [ ] LAB-07: Find a Word [#18](https://github.com/anapaula-carmelita/Estudos/issues/18)
+- [ ] LAB-08: Sudokus[#19](https://github.com/anapaula-carmelita/Estudos/issues/19)
+- [ ] LAB-21: Reading ints safely [#20](https://github.com/anapaula-carmelita/Estudos/issues/20)
 
       
 ## ⚖️ Educational Notice
