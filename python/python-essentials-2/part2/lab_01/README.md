@@ -48,7 +48,6 @@
 - **Dependencies:** Pure Python standard library only. No external modules required.
 
 ## 🚀 Future Enhancements
-
 While the current MVP successfully mimics Python's built-in `split()` method by relying solely on whitespace delimiters, real-world text processing often requires more robust tokenization. 
 
 To make this utility more versatile for data sanitization and parsing tasks, future iterations could include:
