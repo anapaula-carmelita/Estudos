@@ -1,4 +1,4 @@
-# US LAB-01 - Your Own Split Method
+# LAB-01 - Your Own Split Method
 
 ## 📝 User Story
 **As a** Python student preparing for the PCAP certification,  

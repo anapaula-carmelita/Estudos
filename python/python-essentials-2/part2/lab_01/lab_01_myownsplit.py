@@ -24,10 +24,4 @@ def mysplit(strng):
     if s != '':
         word_list.append(s)
     return word_list
-
-print(mysplit("To be or not to be, that is the question"))
-print(mysplit("To    be or not to be,that is the question"))
-print(mysplit(" "))
-print(mysplit(" abc "))
-print(mysplit(""))
-print(mysplit("Most Sacred Heart of Jesus, I      trust in You."))
+    

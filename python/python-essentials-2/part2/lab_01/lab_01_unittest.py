@@ -1,21 +1,29 @@
 import unittest
 
-import os.path("/python/python-essentials-2/source-code/")
-
+from lab_01_myownsplit import mysplit
 class TestMySplit(unittest.TestCase):
 
-    def test_standard_sentence(self):
-        # GIVEN (Dado que a função recebe esta string)
-        input_string = "To be or not to be, that is the question"
+    def test_mysplit(self):
+        test_cases = [
+            (
+                "To be or not to be, that is the question",
+                ['To', 'be', 'or', 'not', 'to', 'be,', 'that', 'is', 'the', 'question']
+            ),
+            (
+                "To    be or not to be,that is the question",
+                ['To', 'be', 'or', 'not', 'to', 'be,that', 'is', 'the', 'question']
+            ),
+            (
+                " abc ",['abc']
+            ),
+            (
+                "Most Sacred Heart of Jesus, I      trust in You.", ["Most", "Sacred", "Heart", "of", "Jesus,", "I", "trust", "in", "You."]
+            )]
         
-        # WHEN (Quando a função é executada)
-        result = mysplit(input_string)
+        for text, expected in test_cases:
+            with self.subTest(text=text):
+                self.assertEqual(mysplit(text), expected)
         
-        # THEN (Então ela deve retornar esta lista)
-        expected_output = ['To', 'be', 'or', 'not', 'to', 'be,', 'that', 'is', 'the', 'question']
-        
-        # O assert do teste verifica se o resultado bate com a expectativa
-        self.assertEqual(result, expected_output)
 
 if __name__ == '__main__':
     unittest.main()
