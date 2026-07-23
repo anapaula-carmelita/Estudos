@@ -46,3 +46,12 @@
 - **Implementation Details:** The function iterates through the string character by character using a loop. A temporary string variable accumulates characters for the current word. Upon encountering a whitespace, if the temporary string is not empty, it is appended to the result list and then reset. The built-in `split()` method is strictly forbidden.
 - **Complexity:** Time Complexity: $O(n)$, where $n$ is the length of the string, since it requires a single pass. Space Complexity: $O(n)$ to store the resulting list of words.
 - **Dependencies:** Pure Python standard library only. No external modules required.
+
+## 🚀 Future Enhancements
+
+While the current MVP successfully mimics Python's built-in `split()` method by relying solely on whitespace delimiters, real-world text processing often requires more robust tokenization. 
+
+To make this utility more versatile for data sanitization and parsing tasks, future iterations could include:
+
+- **Advanced Punctuation Handling:** Extend the algorithm to recognize punctuation marks (e.g., commas, periods) as valid word breaks. For instance, parsing a malformed string like `"To be,that is"` currently yields `['To', 'be,that', 'is']`. Updating the logic to split by (or strip) punctuation would cleanly separate `"be"` and `"that"`.
+- **Custom Delimiter Support:** Modify the function signature to accept a custom `delimiter` argument (e.g., `mysplit(text, delimiter=',')`), bringing it closer to the full functionality of standard string manipulation libraries.
