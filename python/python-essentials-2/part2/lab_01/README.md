@@ -47,6 +47,15 @@
 - **Complexity:** Time Complexity: $O(n)$, where $n$ is the length of the string, since it requires a single pass. Space Complexity: $O(n)$ to store the resulting list of words.
 - **Dependencies:** Pure Python standard library only. No external modules required.
 
+## 🔗 Official Reference
+This project contains my own implementation, documentation, and automated
+tests for the following educational activity:
+
+- [Python Essentials 2 — Official Lab: Your Own Split](https://edube.org/learn/pe-2/your-own-split-4)
+
+The original exercise statement is not reproduced in this repository.
+Access to the course content may require an Edube account.
+
 ## 🚀 Future Enhancements
 While the current MVP successfully mimics Python's built-in `split()` method by relying solely on whitespace delimiters, real-world text processing often requires more robust tokenization. 
 
