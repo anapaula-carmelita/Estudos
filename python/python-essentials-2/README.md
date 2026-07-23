@@ -43,12 +43,19 @@ To guide my progress, I mapped out the entire learning journey. Below is the Use
 
 The scripts and documentation are organized to demonstrate both coding and analytical skills. Here are the practical concepts applied:
 
-- [  ] 📦 **Modules and Packages:** Creation, usage, and organization.
-- [x] ⚠️ **Exceptions:** Error handling and building custom exception hierarchies.
+- [ ] 📦 **Modules and Packages:** Creation, usage, and organization.
+- [ ] ⚠️ **Exceptions:** Error handling and building custom exception hierarchies.
 - [x] 🔤 **Strings:** Advanced text processing methods.
-- [x] 🧩 **Object-Oriented Programming (OOP):** Classes, methods, inheritance, and polymorphism.
-- [x] 📁 **Files:** File I/O manipulation.
+- [ ] 🧩 **Object-Oriented Programming (OOP):** Classes, methods, inheritance, and polymorphism.
+- [ ] 📁 **Files:** File I/O manipulation.
 - [ ] ⚙️ **Agile & DevOps:** Requirements analysis, automated testing, and CI/CD workflows.
+
+### 2. Features (The Backbone)
+The Epic is divided into four main Features (represented by the **dark green blocks** in the User Story Map). These act as the major milestones of the learning journey:
+* **Feature 1:** Part 1 - Modules, Packages, and PIP. Project structure and planning sprints.
+* **Feature 2:** Part 2 - Strings, String and List Methods, Exceptions.
+* **Feature 3:** Part 3 - Object-Oriented Programming (OOP) - *The core of the curriculum.*
+* **Feature 4:** Part 4 - Miscellaneous (File I/O, OS, Datetime, Calendar).
 
 ## 📂 Repository Structure
 
