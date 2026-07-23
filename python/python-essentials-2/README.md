@@ -43,6 +43,9 @@ This project is structured using standard Agile taxonomy to break down the compl
 The Epic is divided into four main Features (represented by the **dark green blocks** in the User Story Map). These act as the major milestones of the learning journey:
 * **Feature 1:** Part 1 - Modules, Packages, and PIP. Project structure and planning sprints.
 * **Feature 2:** Part 2 - Strings, String and List Methods, Exceptions.
+  
+  [LAB-01 - Your own split](python/python-essentials-2/part2/lab_01)
+  
   [#14](https://github.com/anapaula-carmelita/Estudos/issues/14)
   [#15](https://github.com/anapaula-carmelita/Estudos/issues/15)
   [#16](https://github.com/anapaula-carmelita/Estudos/issues/16)
