@@ -2,7 +2,7 @@
 
 This document explains the Agile methodology applied to structure the learning journey for the **Python Essentials 2** labs. 
 
-Instead of simply writing scripts, I treated the course curriculum as a software product, utilizing **User Story Mapping** and **[Kanban Sprints](https://github.com/users/anapaula-carmelita/projects/1/views/8)** to manage deliveries.
+Instead of simply writing scripts, I treated the course curriculum as a software product, utilizing **User Story Mapping** and **Kanban Sprints<!--[Kanban Sprints](https://github.com/users/anapaula-carmelita/projects/1/views/8)-->** to manage deliveries.
 
 ## 🏗️ The Hierarchy (Taxonomy)
 
