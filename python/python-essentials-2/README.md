@@ -14,7 +14,7 @@
   
 </div>
 
-## 📖 About this Repository
+## 📖 About this Repository Folder
 
 This section of my study repository is dedicated exclusively to my solutions for the practical labs in the **Python Essentials 2** course.
 
