@@ -52,27 +52,9 @@ This project is structured using standard Agile taxonomy to break down the compl
 The Epic is divided into four main Features (represented by the **dark green blocks** in the User Story Map). These act as the major milestones of the learning journey:
 * **Feature 1:** Part 1 - Modules, Packages, and PIP. Project structure and planning sprints.
 * **Feature 2:** Part 2 - Strings, String and List Methods, Exceptions.
-  
-  
-
 * **Feature 3:** Part 3 - Object-Oriented Programming (OOP) - *The core of the curriculum.*
-  [#100](https://github.com/anapaula-carmelita/Estudos/issues/100)
-  [#101](https://github.com/anapaula-carmelita/Estudos/issues/101)
-  [#102](https://github.com/anapaula-carmelita/Estudos/issues/102)
-  [#103](https://github.com/anapaula-carmelita/Estudos/issues/103)
-  [#104](https://github.com/anapaula-carmelita/Estudos/issues/104)
-  [#105](https://github.com/anapaula-carmelita/Estudos/issues/105)
-  [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
-
 * **Feature 4:** Part 4 - Miscellaneous (File I/O, OS, Datetime, Calendar).
-  [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
-  [#97](https://github.com/anapaula-carmelita/Estudos/issues/97)
-  [#98](https://github.com/anapaula-carmelita/Estudos/issues/98)
-  [#107](https://github.com/anapaula-carmelita/Estudos/issues/107)
-  [#99](https://github.com/anapaula-carmelita/Estudos/issues/99)
-  [#108](https://github.com/anapaula-carmelita/Estudos/issues/108)
-
-
+* 
 ### 3. User Stories (The Deliverables)
 Each Feature is broken down into specific User Stories, which are the actual programming labs (represented by the **light green blocks**). 
 * Each User Story acts as a standalone requirement.
@@ -185,7 +167,23 @@ python-essentials-2/
 - [ ] LAB-08: Sudokus[#19](https://github.com/anapaula-carmelita/Estudos/issues/19)
 - [ ] LAB-21: Reading ints safely [#20](https://github.com/anapaula-carmelita/Estudos/issues/20)
 
-      
+### Part 3:  Object-Oriented Programming (OOP) - *The core of the curriculum.*
+- [ ] [#100](https://github.com/anapaula-carmelita/Estudos/issues/100)
+- [ ] [#101](https://github.com/anapaula-carmelita/Estudos/issues/101)
+- [ ] [#102](https://github.com/anapaula-carmelita/Estudos/issues/102)
+- [ ] [#103](https://github.com/anapaula-carmelita/Estudos/issues/103)
+- [ ] [#104](https://github.com/anapaula-carmelita/Estudos/issues/104)
+- [ ] [#105](https://github.com/anapaula-carmelita/Estudos/issues/105)
+- [ ] [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
+
+### Part 4: Miscellaneous (File I/O, OS, Datetime, Calendar).
+- [ ] [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
+- [ ] [#97](https://github.com/anapaula-carmelita/Estudos/issues/97)
+- [ ] [#98](https://github.com/anapaula-carmelita/Estudos/issues/98)
+- [ ] [#107](https://github.com/anapaula-carmelita/Estudos/issues/107)
+- [ ] [#99](https://github.com/anapaula-carmelita/Estudos/issues/99)
+- [ ] [#108](https://github.com/anapaula-carmelita/Estudos/issues/108)
+  
 ## ⚖️ Educational Notice
 
 This repository contains my own implementations, tests, and technical
