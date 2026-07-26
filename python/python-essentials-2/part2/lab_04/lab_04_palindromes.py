@@ -8,11 +8,11 @@
 
 def ispalindrome(text):
     if text == '':
-        return False
+        return "It's not a palindrome"
     text = text.upper().replace(' ','')
     i = 0
     n = len(text)
-    while (i < n / 2 + 1):
+    while (i < n // 2):
         if text[i] != text[n - i - 1]:
             return "It's not a palindrome"
         i += 1
