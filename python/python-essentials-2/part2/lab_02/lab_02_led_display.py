@@ -1,5 +1,5 @@
 #  File name: lab_led_display.py
-#  Description: A possible solution for the 'YA LED Display' LAB from Python Essentials 2
+#  Description: A possible solution for the 'LAB LED Display' LAB from Python Essentials 2
 #  Author: Ana Paula da Silva Souza
 #  Date: 2026-07-26
 #  Version: 1.0
