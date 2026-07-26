@@ -1,7 +1,7 @@
 import unittest
 
 from lab_02_led_display import leddisplay
-class TestMySplit(unittest.TestCase):
+class TestLEDDisplay(unittest.TestCase):
 
     def test_myleddisplay(self):
         test_cases = [
