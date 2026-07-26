@@ -19,6 +19,9 @@ My current focus is preparing for the PCAP certification and strengthening my fo
 | **HackerRank** | ![Python](https://img.shields.io/badge/-Python-blue) ![C](https://img.shields.io/badge/-C-grey) | ⏸️ 👷🏽‍♀️ *Paused*  |
 | **LeetCode** | ![Python](https://img.shields.io/badge/-Python-blue) ![C](https://img.shields.io/badge/-C-grey) | ⏸️ 👷🏽‍♀️ *Paused*   |
 | **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2)** | ![Python](https://img.shields.io/badge/-Python-blue) | 🟢 *Active* | 
+| **PCPP1** | ![Python](https://img.shields.io/badge/-Python-blue) | 🔜 *Coming soon* | 
+| **CLE** | 🔜 *Coming soon* | 
+| **CLA** | 🔜 *Coming soon* | 
 ---
 
 ## 🛠️ Technologies & Tools
