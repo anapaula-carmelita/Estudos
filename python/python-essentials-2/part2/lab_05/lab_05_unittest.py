@@ -1,7 +1,7 @@
 import unittest
 
 from lab_05_anagrams import isanagram
-class TestPalindromes(unittest.TestCase):
+class TestAnagrams(unittest.TestCase):
 
     def test_anagrams(self):
         test_cases = [
@@ -21,3 +21,4 @@ class TestPalindromes(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    
