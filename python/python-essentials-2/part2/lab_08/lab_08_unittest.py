@@ -1,22 +1,38 @@
 import unittest
 
-from lab_05_anagrams import isanagram
-class TestPalindromes(unittest.TestCase):
+from lab_08_sudoku import isvalidsudoku
+class TestSudoku(unittest.TestCase):
 
-    def test_anagrams(self):
+    def test_sudoku(self):
         test_cases = [
             (
-                ("Listen", "Silent"),
-                "Anagrams"
+"""295743861
+431865927
+876192543
+387459216
+612387495
+549216738
+763524189
+928671354
+154938672""",
+                "Yes"
             ),
             (
-                ("modern", "norman"),
-                "Not anagrams"
+"""195743862
+431865927
+876192543
+387459216
+612387495
+549216738
+763524189
+928671354
+254938671""",
+                "No"
             )]
         
-        for (text1, text2), expected in test_cases:
-            with self.subTest(text1=text1, text2=text2):
-                self.assertEqual(isanagram(text1, text2), expected)
+        for play, expected in test_cases:
+            with self.subTest(play=play):
+                self.assertEqual(isvalidsudoku(play), expected)
         
 
 if __name__ == '__main__':

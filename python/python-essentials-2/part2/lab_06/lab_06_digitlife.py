@@ -6,5 +6,13 @@
 #  License: Apache
 #
 
-def calculatedigit(date):
-    pass
+def calculatedigit(strg):
+    sum = 0
+    while 1:
+        sum = 0
+        for c in strg:
+            sum += int(c)
+        if sum > 9:
+            strg = str(sum)
+        else: break
+    return sum
