@@ -26,8 +26,8 @@ My current focus is preparing for the PCAP certification and strengthening my fo
 
 ## 🛠️ Technologies & Tools
 
-* **🐍 Python:** Modern solutions focused on readability and standard libraries (PCAP Preparation).
-* **🇨 C:** The foundation of it all. Exercises focused on memory allocation, pointers, and performance.
+* [![Python](https://img.shields.io/badge/-Python-blue)](https://github.com/anapaula-carmelita/Estudos/tree/main/python) 🐍: Modern solutions focused on readability and standard libraries (PCAP Preparation).
+* [![C](https://img.shields.io/badge/-C-grey)](https://github.com/anapaula-carmelita/Estudos/tree/main/C/LeetCode): The foundation of it all. Exercises focused on memory allocation, pointers, and performance.
 * **📊 Statistics:** Applying mathematical concepts to problem-solving.
 
 ---
