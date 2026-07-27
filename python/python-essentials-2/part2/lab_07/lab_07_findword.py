@@ -7,4 +7,9 @@
 #
 
 def findword(word, text):
-    pass
+    i = 0
+    for c in word:
+        i = text.find(c, i)
+        if i == -1:
+            return 'No'
+    return 'Yes'

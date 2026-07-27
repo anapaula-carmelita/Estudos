@@ -18,8 +18,8 @@ class TestFindWord(unittest.TestCase):
                 "Yes"
             )]
         
-        for (text1, text2), expected in test_cases:
-            with self.subTest(text1=text1, text2=text2):
+        for (word, text), expected in test_cases:
+            with self.subTest(word=word, text=text):
                 self.assertEqual(findword(word, text), expected)
         
 
