@@ -16,9 +16,9 @@ My current focus is preparing for the PCAP certification and strengthening my fo
 
 | Platform | Languages | Status |
 | :--- | :---: | :--- |
-| **HackerRank** | [![Python](https://img.shields.io/badge/-Python-blue)](https://github.com/anapaula-carmelita/Estudos/tree/main/python/HackerRank) [![C](https://img.shields.io/badge/-C-grey](https://github.com/anapaula-carmelita/Estudos/tree/main/C/HackerRank)) | ⏸️ 👷🏽‍♀️ *Paused*  |
+| **HackerRank** | [![Python](https://img.shields.io/badge/-Python-blue)](https://github.com/anapaula-carmelita/Estudos/tree/main/python/HackerRank) [![C](https://img.shields.io/badge/-C-grey)](https://github.com/anapaula-carmelita/Estudos/tree/main/C/HackerRank) | ⏸️ 👷🏽‍♀️ *Paused*  |
 | **LeetCode** | [![Python](https://img.shields.io/badge/-Python-blue)](https://github.com/anapaula-carmelita/Estudos/tree/main/python/LeetCode) [![C](https://img.shields.io/badge/-C-grey)](https://github.com/anapaula-carmelita/Estudos/tree/main/C/LeetCode) | ⏸️ 👷🏽‍♀️ *Paused*   |
-| **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2)** | ![Python](https://img.shields.io/badge/-Python-blue) | 🟢 *Active* | 
+| **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2)** | [![Python](https://img.shields.io/badge/-Python-blue)](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2) | 🟢 *Active* | 
 | **PCPP1** | ![Python](https://img.shields.io/badge/-Python-blue) | 🔜 *Coming soon* | 
 | **CLE** | ![C](https://img.shields.io/badge/-C-grey) | 🔜 *Coming soon* | 
 | **CLA** | ![C](https://img.shields.io/badge/-C-grey) | 🔜 *Coming soon* | 
@@ -26,9 +26,9 @@ My current focus is preparing for the PCAP certification and strengthening my fo
 
 ## 🛠️ Technologies & Tools
 
-* [![Python](https://img.shields.io/badge/-Python-blue)](https://github.com/anapaula-carmelita/Estudos/tree/main/python) 🐍: Modern solutions focused on readability and standard libraries (PCAP Preparation).
-* [![C](https://img.shields.io/badge/-C-grey)](https://github.com/anapaula-carmelita/Estudos/tree/main/C/LeetCode): The foundation of it all. Exercises focused on memory allocation, pointers, and performance.
-* **📊 Statistics:** Applying mathematical concepts to problem-solving.
+* ![Python](https://img.shields.io/badge/-Python-blue)🐍: Modern solutions focused on readability and standard libraries (PCAP Preparation).
+* ![C](https://img.shields.io/badge/-C-grey): The foundation of it all. Exercises focused on memory allocation, pointers, and performance.
+
 
 ---
 
