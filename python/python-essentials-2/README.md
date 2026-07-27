@@ -103,17 +103,17 @@ python-essentials-2/
 |   |   ├── lab_01_unitest.py
 │   |   └── README.md
 │   |
-│   ├── lab_02/      👷🏽‍♀️ under construction
+│   ├── lab_02/ 
 |   |   ├── lab_02_led_display.py
 |   |   ├── lab_02_unitest.py
 │   |   └── README.md
 │   |
-│   ├── lab_03/      👷🏽‍♀️ under construction
-|   |   ├── lab_03_imp_caesar_cipher.py
+│   ├── lab_03/ 
+|   |   ├── lab_03_caesar_cipher.py
 |   |   ├── lab_03_unitest.py
 │   |   └── README.md
 │   |
-│   ├── lab_04/      👷🏽‍♀️ under construction
+│   ├── lab_04/
 |   |   ├── lab_04_palindromes.py
 |   |   ├── lab_04_unitest.py
 │   |   └── README.md
@@ -124,12 +124,12 @@ python-essentials-2/
 │   |   └── README.md
 │   |
 │   ├── lab_06/      👷🏽‍♀️ under construction
-|   |   ├── lab_06_digit_life.py
+|   |   ├── lab_06_digitlife.py
 |   |   ├── lab_06_unitest.py
 │   |   └── README.md
 │   |
 │   ├── lab_07/
-|   |   ├── lab_07_find_word.py
+|   |   ├── lab_07_findword.py
 |   |   ├── lab_07_unitest.py
 │   |   └── README.md
 │   |
@@ -139,7 +139,7 @@ python-essentials-2/
 │   |   └── README.md
 │   |
 │   └── lab_21/      👷🏽‍♀️ under construction
-|       ├── lab_21_reading_ints.py
+|       ├── lab_21_readint.py
 |       ├── lab_21_unitest.py
 │       └── README.md
 │
