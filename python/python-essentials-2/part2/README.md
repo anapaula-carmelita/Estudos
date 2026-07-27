@@ -1,4 +1,4 @@
-**Part 2:** Strings, String and List Methods, Exceptions.
+## **Part 2:** Strings, String and List Methods, Exceptions.
 
 - [x] [LAB-01 - Your own split](python/python-essentials-2/part2/lab_01)
 - [x] [LAB-02: LED Display](python/python-essentials-2/part2/lab_02)
