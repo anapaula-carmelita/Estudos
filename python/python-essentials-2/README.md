@@ -158,9 +158,9 @@ python-essentials-2/
 ### Part 2: Strings and Exceptions
 
 - [x] [LAB-01 - Your own split](python/python-essentials-2/part2/lab_01)
-- [ ] LAB-02: LED Display [#14](https://github.com/anapaula-carmelita/Estudos/issues/14)
-- [ ] LAB-03: Caesar Cipher [#15](https://github.com/anapaula-carmelita/Estudos/issues/15)
-- [ ] LAB-04: Palindromes [#16](https://github.com/anapaula-carmelita/Estudos/issues/16)
+- [x] [LAB-02: LED Display](python/python-essentials-2/part2/lab_02)
+- [x] [LAB-03: Caesar Cipher](python/python-essentials-2/part2/lab_03)
+- [x] [LAB-04: Palindromes ](python/python-essentials-2/part2/lab_04)
 - [ ] LAB-05: Anagrams [#13](https://github.com/anapaula-carmelita/Estudos/issues/13)
 - [ ] LAB-06: Digit of Life [#17](https://github.com/anapaula-carmelita/Estudos/issues/17)
 - [ ] LAB-07: Find a Word [#18](https://github.com/anapaula-carmelita/Estudos/issues/18)
