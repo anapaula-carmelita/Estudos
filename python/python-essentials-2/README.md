@@ -22,11 +22,11 @@ The primary goal of this material is to deepen my knowledge of modules, packages
 
 ## 🧭 Quick Navigation
 
-- [🎯 Project Vision and Motivation](python-essentials-2#-project-vision-and-motivation)
-- [🗺️ Requirements & Agile Planning Overview](python-essentials-2#️-requirements--agile-planning-overview)
-- [🔄 Execution: GitHub Projects & Sprints](python-essentials-2#-repository-structure)
-- [👷🏽‍♀️ Lab Progress](python-essentials-2#-lab-progress)
-- [⚖️ Educational Notice](python-essentials-2#️-educational-notice)
+- 🎯 [Project Vision and Motivation](python-essentials-2#-project-vision-and-motivation)
+- 🗺️ [Requirements & Agile Planning Overview](python-essentials-2#️-requirements--agile-planning-overview)
+- 🔄 [Execution: GitHub Projects & Sprints](python-essentials-2#-repository-structure)
+- 👷🏽‍♀️ [Lab Progress](python-essentials-2#-lab-progress)
+- ⚖️ [Educational Notice](python-essentials-2#️-educational-notice)
 ``
 
 ## 🎯 Project Vision and Motivation
@@ -78,7 +78,7 @@ The scripts and documentation are organized to demonstrate both coding and analy
 
 - [ ] 📦 **Modules and Packages:** Creation, usage, and organization.
 - [x] 🔤 **Strings:** Advanced text processing methods.
-- [ ] ⚠️ **Exceptions:** Error handling and building custom exception hierarchies.
+- [x] ⚠️ **Exceptions:** Error handling and building custom exception hierarchies.
 - [ ] 🧩 **Object-Oriented Programming (OOP):** Classes, methods, inheritance, and polymorphism.
 - [ ] 📁 **Files:** File I/O manipulation.
 - [ ] ⚙️ **Agile & DevOps:** Requirements analysis, automated testing, and CI/CD workflows.
@@ -118,12 +118,12 @@ python-essentials-2/
 |   |   ├── lab_04_unitest.py
 │   |   └── README.md
 │   |
-│   ├── lab_05/      👷🏽‍♀️ under construction
+│   ├── lab_05/      
 |   |   ├── lab_05_anagrams.py
 |   |   ├── lab_05_unitest.py
 │   |   └── README.md
 │   |
-│   ├── lab_06/      👷🏽‍♀️ under construction
+│   ├── lab_06/     
 |   |   ├── lab_06_digitlife.py
 |   |   ├── lab_06_unitest.py
 │   |   └── README.md
@@ -133,12 +133,12 @@ python-essentials-2/
 |   |   ├── lab_07_unitest.py
 │   |   └── README.md
 │   |
-│   ├── lab_08/      👷🏽‍♀️ under construction
+│   ├── lab_08/     
 |   |   ├── lab_08_sudoku.py
 |   |   ├── lab_08_unitest.py
 │   |   └── README.md
 │   |
-│   └── lab_21/      👷🏽‍♀️ under construction
+│   └── lab_21/    
 |       ├── lab_21_readint.py
 |       ├── lab_21_unitest.py
 │       └── README.md
@@ -161,11 +161,11 @@ python-essentials-2/
 - [x] [LAB-02: LED Display](python/python-essentials-2/part2/lab_02)
 - [x] [LAB-03: Caesar Cipher](python/python-essentials-2/part2/lab_03)
 - [x] [LAB-04: Palindromes ](python/python-essentials-2/part2/lab_04)
-- [x] LAB-05: Anagrams [#13](python/python-essentials-2/part2/lab_05)
-- [x] LAB-06: Digit of Life [#17](python/python-essentials-2/part2/lab_06)
-- [x] LAB-07: Find a Word [#18](python/python-essentials-2/part2/lab_07)
-- [x] LAB-08: Sudokus[#19](python/python-essentials-2/part2/lab_08)
-- [ ] LAB-21: Reading ints safely [#20](https://github.com/anapaula-carmelita/Estudos/issues/20)
+- [x] [LAB-05: Anagrams](python/python-essentials-2/part2/lab_05)
+- [x] [LAB-06: Digit of Life](python/python-essentials-2/part2/lab_06)
+- [x] [LAB-07: Find a Word](python/python-essentials-2/part2/lab_07)
+- [x] [LAB-08: Sudokus](python/python-essentials-2/part2/lab_08)
+- [x] [LAB-21: Reading ints safely](python/python-essentials-2/part2/lab_08)
 
 ### Part 3:  Object-Oriented Programming (OOP) - *The core of the curriculum.*
 - [ ] [#100](https://github.com/anapaula-carmelita/Estudos/issues/100)
