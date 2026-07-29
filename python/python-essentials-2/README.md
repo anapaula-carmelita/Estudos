@@ -79,7 +79,7 @@ The scripts and documentation are organized to demonstrate both coding and analy
 - [ ] 📦 **Modules and Packages:** Creation, usage, and organization.
 - [x] 🔤 **Strings:** Advanced text processing methods.
 - [x] ⚠️ **Exceptions:** Error handling and building custom exception hierarchies.
-- [ ] 🧩 **Object-Oriented Programming (OOP):** Classes, methods, inheritance, and polymorphism.
+- [x] 🧩 **Object-Oriented Programming (OOP):** Classes, methods, inheritance, and polymorphism.
 - [ ] 📁 **Files:** File I/O manipulation.
 - [ ] ⚙️ **Agile & DevOps:** Requirements analysis, automated testing, and CI/CD workflows.
 
@@ -144,8 +144,31 @@ python-essentials-2/
 │       └── README.md
 │
 ├── part3/      👷🏽‍♀️ under construction
-│   └── ⏳
-│
+│   ├── lab_09/  
+|   |   ├── lab_09_stack.py
+|   |   ├── lab_09_unitest.py
+│   |   └── README.md
+│   |
+│   ├── lab_10/ 
+|   |   ├── lab_10_queue.py
+|   |   ├── lab_10_unitest.py
+│   |   └── README.md
+│   |
+|   ├── lab_11/ 
+|   |   └── README.md
+│   |
+|   ├── lab_12/ 
+|   |   └── README.md
+│   |
+|   ├── lab_13/ 
+|   |   └── README.md
+│   |
+|   ├── lab_14/ 
+|   |   └── README.md
+│   |
+|   └── lab_15/ 
+|       └── README.md
+|
 ├── part4/      👷🏽‍♀️ under construction
 │   └── ⏳
 |
@@ -168,13 +191,13 @@ python-essentials-2/
 - [x] [LAB-21: Reading ints safely](python/python-essentials-2/part2/lab_08)
 
 ### Part 3:  Object-Oriented Programming (OOP) - *The core of the curriculum.*
-- [ ] [#100](https://github.com/anapaula-carmelita/Estudos/issues/100)
-- [ ] [#101](https://github.com/anapaula-carmelita/Estudos/issues/101)
-- [ ] [#102](https://github.com/anapaula-carmelita/Estudos/issues/102)
-- [ ] [#103](https://github.com/anapaula-carmelita/Estudos/issues/103)
-- [ ] [#104](https://github.com/anapaula-carmelita/Estudos/issues/104)
-- [ ] [#105](https://github.com/anapaula-carmelita/Estudos/issues/105)
-- [ ] [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
+- [x] [LAB-09 - Counting Stack](python/python-essentials-2/part3/lab_09)
+- [x] [LAB-10 - Queue (FIFO) - Part 1](python/python-essentials-2/part3/lab_10)
+- [ ] [LAB-11 - Queue (FIFO) - Part 2](python/python-essentials-2/part3/lab_11) [#102](https://github.com/anapaula-carmelita/Estudos/issues/102)
+- [ ] [LAB-12 - Timer Class](python/python-essentials-2/part3/lab_12) [#103](https://github.com/anapaula-carmelita/Estudos/issues/103)
+- [ ] [LAB-13 - Points on a Plane](python/python-essentials-2/part3/lab_13) [#104](https://github.com/anapaula-carmelita/Estudos/issues/104)
+- [ ] [LAB-14 - A Point on a Plane (Distance)](python/python-essentials-2/part3/lab_14) [#105](https://github.com/anapaula-carmelita/Estudos/issues/105)
+- [ ] [LAB-15 - Triangle Class](python/python-essentials-2/part3/lab_15) [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
 
 ### Part 4: Miscellaneous (File I/O, OS, Datetime, Calendar).
 - [ ] [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
