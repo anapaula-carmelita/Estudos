@@ -34,3 +34,4 @@ Master Object-Oriented Programming (OOP) concepts from Part 3 of the PCAP curric
 - [ ] Move forward to Part 4 of the curriculum (Miscellaneous: File I/O, OS, Datetime).
 - [ ] Continue applying `unittest` to all upcoming labs to reinforce the testing habit.
 - [ ] Maintain the use of AI to generate Agile documentation rapidly, keeping the workflow efficient.
+
