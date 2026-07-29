@@ -1,14 +1,14 @@
 ## **Part 2:** Strings, String and List Methods, Exceptions.
 
-- [x] [LAB-01 - Your own split](python/python-essentials-2/part2/lab_01)
-- [x] [LAB-02: LED Display](python/python-essentials-2/part2/lab_02)
-- [x] [LAB-03: Caesar Cipher](python/python-essentials-2/part2/lab_03)
-- [x] [LAB-04: Palindromes ](python/python-essentials-2/part2/lab_04)
-- [x] [LAB-05: Anagrams](python/python-essentials-2/part2/lab_05)
-- [x] [LAB-06: Digit of Life](python/python-essentials-2/part2/lab_06)
-- [x] [LAB-07: Find a Word](python/python-essentials-2/part2/lab_07)
-- [x] [LAB-08: Sudokus](python/python-essentials-2/part2/lab_08)
-- [x] [LAB-21: Reading ints safely](https://github.com/anapaula-carmelita/Estudos/issues/20)
+- [x] [LAB-01 - Your own split](lab_01)
+- [x] [LAB-02: LED Display](lab_02)
+- [x] [LAB-03: Caesar Cipher](lab_03)
+- [x] [LAB-04: Palindromes ](lab_04)
+- [x] [LAB-05: Anagrams](lab_05)
+- [x] [LAB-06: Digit of Life](lab_06)
+- [x] [LAB-07: Find a Word](lab_07)
+- [x] [LAB-08: Sudokus](lab_08)
+- [x] [LAB-21: Reading ints safely](lab_21)
 
 ## 🏁 Sprint 2 Retrospective & Lessons Learned
 

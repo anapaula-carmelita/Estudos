@@ -180,24 +180,24 @@ python-essentials-2/
 
 ### Part 2: Strings and Exceptions
 
-- [x] [LAB-01 - Your own split](python/python-essentials-2/part2/lab_01)
-- [x] [LAB-02: LED Display](python/python-essentials-2/part2/lab_02)
-- [x] [LAB-03: Caesar Cipher](python/python-essentials-2/part2/lab_03)
-- [x] [LAB-04: Palindromes ](python/python-essentials-2/part2/lab_04)
-- [x] [LAB-05: Anagrams](python/python-essentials-2/part2/lab_05)
-- [x] [LAB-06: Digit of Life](python/python-essentials-2/part2/lab_06)
-- [x] [LAB-07: Find a Word](python/python-essentials-2/part2/lab_07)
-- [x] [LAB-08: Sudokus](python/python-essentials-2/part2/lab_08)
-- [x] [LAB-21: Reading ints safely](python/python-essentials-2/part2/lab_08)
+- [x] [LAB-01 - Your own split](part2/lab_01)
+- [x] [LAB-02: LED Display](part2/lab_02)
+- [x] [LAB-03: Caesar Cipher](part2/lab_03)
+- [x] [LAB-04: Palindromes ](part2/lab_04)
+- [x] [LAB-05: Anagrams](part2/lab_05)
+- [x] [LAB-06: Digit of Life](part2/lab_06)
+- [x] [LAB-07: Find a Word](part2/lab_07)
+- [x] [LAB-08: Sudokus](part2/lab_08)
+- [x] [LAB-21: Reading ints safely](part2/lab_08)
 
 ### Part 3:  Object-Oriented Programming (OOP) - *The core of the curriculum.*
-- [x] [LAB-09 - Counting Stack](python/python-essentials-2/part3/lab_09)
-- [x] [LAB-10 - Queue (FIFO) - Part 1](python/python-essentials-2/part3/lab_10)
-- [ ] [LAB-11 - Queue (FIFO) - Part 2](python/python-essentials-2/part3/lab_11) [#102](https://github.com/anapaula-carmelita/Estudos/issues/102)
-- [ ] [LAB-12 - Timer Class](python/python-essentials-2/part3/lab_12) [#103](https://github.com/anapaula-carmelita/Estudos/issues/103)
-- [ ] [LAB-13 - Points on a Plane](python/python-essentials-2/part3/lab_13) [#104](https://github.com/anapaula-carmelita/Estudos/issues/104)
-- [ ] [LAB-14 - A Point on a Plane (Distance)](python/python-essentials-2/part3/lab_14) [#105](https://github.com/anapaula-carmelita/Estudos/issues/105)
-- [ ] [LAB-15 - Triangle Class](python/python-essentials-2/part3/lab_15) [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
+- [x] [LAB-09 - Counting Stack](part3/lab_09)
+- [x] [LAB-10 - Queue (FIFO) - Part 1](part3/lab_10)
+- [ ] [LAB-11 - Queue (FIFO) - Part 2](part3/lab_11) [#102](https://github.com/anapaula-carmelita/Estudos/issues/102)
+- [ ] [LAB-12 - Timer Class](part3/lab_12) [#103](https://github.com/anapaula-carmelita/Estudos/issues/103)
+- [ ] [LAB-13 - Points on a Plane](part3/lab_13) [#104](https://github.com/anapaula-carmelita/Estudos/issues/104)
+- [ ] [LAB-14 - A Point on a Plane (Distance)](part3/lab_14) [#105](https://github.com/anapaula-carmelita/Estudos/issues/105)
+- [ ] [LAB-15 - Triangle Class](part3/lab_15) [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
 
 ### Part 4: Miscellaneous (File I/O, OS, Datetime, Calendar).
 - [ ] [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
