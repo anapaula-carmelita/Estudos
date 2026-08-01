@@ -143,7 +143,7 @@ python-essentials-2/
 |       ├── lab_21_unitest.py
 │       └── README.md
 │
-├── part3/      👷🏽‍♀️ under construction
+├── part3/   
 │   ├── lab_09/  
 |   |   ├── lab_09_stack.py
 |   |   ├── lab_09_unitest.py
@@ -155,18 +155,28 @@ python-essentials-2/
 │   |   └── README.md
 │   |
 |   ├── lab_11/ 
+|   |   ├── lab_11_queue.py
+|   |   ├── lab_11_unitest.py
 |   |   └── README.md
 │   |
 |   ├── lab_12/ 
+|   |   ├── lab_12_timer.py
+|   |   ├── lab_12_unitest.py
 |   |   └── README.md
 │   |
 |   ├── lab_13/ 
+|   |   ├── lab_13_weeker.py
+|   |   ├── lab_13_unitest.py
 |   |   └── README.md
 │   |
 |   ├── lab_14/ 
+|   |   ├── lab_14_point.py
+|   |   ├── lab_14_unitest.py
 |   |   └── README.md
 │   |
 |   └── lab_15/ 
+|       ├── lab_15_triangle.py
+|       ├── lab_15_unitest.py
 |       └── README.md
 |
 ├── part4/      👷🏽‍♀️ under construction
@@ -196,8 +206,8 @@ python-essentials-2/
 - [x] [LAB-11 - Queue (FIFO) - Part 2](part3/lab_11) [#102](https://github.com/anapaula-carmelita/Estudos/issues/102)
 - [x] [LAB-12 - Timer Class](part3/lab_12) [#103](https://github.com/anapaula-carmelita/Estudos/issues/103)
 - [x] [LAB-13 - Points on a Plane](part3/lab_13) [#104](https://github.com/anapaula-carmelita/Estudos/issues/104)
-- [ ] [LAB-14 - A Point on a Plane (Distance)](part3/lab_14) [#105](https://github.com/anapaula-carmelita/Estudos/issues/105)
-- [ ] [LAB-15 - Triangle Class](part3/lab_15) [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
+- [x] [LAB-14 - A Point on a Plane (Distance)](part3/lab_14) [#105](https://github.com/anapaula-carmelita/Estudos/issues/105)
+- [x] [LAB-15 - Triangle Class](part3/lab_15) [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
 
 ### Part 4: Miscellaneous (File I/O, OS, Datetime, Calendar).
 - [ ] [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
