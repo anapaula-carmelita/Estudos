@@ -8,25 +8,31 @@ Welcome to my code laboratory! This repository gathers my programming challenge 
 
 ## 🎯 Repository Objective
 
-Here, I document my practical study routine, applying **Data Structures** and **Mathematics** (aligned with my Statistics studies).
+Here, I document my practical study routine, applying **Data Structures** and **Mathematics**.
 
 My current focus is preparing for the PCAP certification and strengthening my foundational skills in C.
 
-### 🗂️ Study Organization
+## 🗂️ Study Organization
+### Solving Problems
 
-| Platform | Languages | Status |
-| :--- | :---: | :--- |
-| **HackerRank** | [![Python](https://img.shields.io/badge/-Python-blue)](https://github.com/anapaula-carmelita/Estudos/tree/main/python/HackerRank) [![C](https://img.shields.io/badge/-C-grey)](https://github.com/anapaula-carmelita/Estudos/tree/main/C/HackerRank) | ⏸️ 👷🏽‍♀️ *Paused*  |
-| **LeetCode** | [![Python](https://img.shields.io/badge/-Python-blue)](https://github.com/anapaula-carmelita/Estudos/tree/main/python/LeetCode) [![C](https://img.shields.io/badge/-C-grey)](https://github.com/anapaula-carmelita/Estudos/tree/main/C/LeetCode) | ⏸️ 👷🏽‍♀️ *Paused*   |
-| **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2)** | [![Python](https://img.shields.io/badge/-Python-blue)](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2) | 🟢 *Active* | 
-| **PCPP1** | ![Python](https://img.shields.io/badge/-Python-blue) | 🔜 *Coming soon* | 
-| **CLE** | ![C](https://img.shields.io/badge/-C-grey) | 🔜 *Coming soon* | 
-| **CLA** | ![C](https://img.shields.io/badge/-C-grey) | 🔜 *Coming soon* | 
+| Plataforma | ![Python](https://img.shields.io/badge/-Python-blue) | ![C](https://img.shields.io/badge/-C-grey) | Status |
+| :--- | :--- | :---: | :---: |
+| **HackerRank** | [HackerRank](https://github.com/anapaula-carmelita/Estudos/tree/main/python/HackerRank) | [HackerRank](https://github.com/anapaula-carmelita/Estudos/tree/main/C/HackerRank) | ⏸️ 👷🏽‍♀️ *Paused* |
+| **LeetCode** | [LeetCode](https://github.com/anapaula-carmelita/Estudos/tree/main/python/LeetCode) | [LeetCode](https://github.com/anapaula-carmelita/Estudos/tree/main/C/LeetCode) | ⏸️ 👷🏽‍♀️ *Paused* |
+
+### LABs solutions
+| Level| Language | Name | Status |
+| :---: | :---: | :---: | :---: |
+| **Begginer** | ![C](https://img.shields.io/badge/-C-grey) | [CLE](https://github.com/anapaula-carmelita/Estudos/tree/main/c/) | 🔜 *Coming soon* | 
+| **Intermediate** | ![Python](https://img.shields.io/badge/-Python-blue) | **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2)** | 🟢 *Active* |
+| **Intermediate** | ![C](https://img.shields.io/badge/-C-grey) | CLA | 🔜 *Coming soon* | 
+| **Advanced** | ![Python](https://img.shields.io/badge/-Python-blue) | PCPP 1 | 🔜 *Coming soon* | 
+
 ---
 
 ## 🛠️ Technologies & Tools
 
-* ![Python](https://img.shields.io/badge/-Python-blue)🐍: Modern solutions focused on readability and standard libraries (PCAP Preparation).
+* ![Python](https://img.shields.io/badge/-Python-blue)🐍: Modern solutions focused on readability and standard libraries.
 * ![C](https://img.shields.io/badge/-C-grey): The foundation of it all. Exercises focused on memory allocation, pointers, and performance.
 
 
