@@ -35,3 +35,10 @@ Master Object-Oriented Programming (OOP) concepts from Part 3 of the PCAP curric
 - [ ] Continue applying `unittest` to all upcoming labs to reinforce the testing habit.
 - [ ] Maintain the use of AI to generate Agile documentation rapidly, keeping the workflow efficient.
 
+## ⚖️ Educational Notice
+
+This repository contains my own implementations, tests, and technical
+documentation developed for educational purposes.
+
+It is not an official Python Institute repository and does not replace the
+course materials. Original exercise statements are not reproduced here.
