@@ -18,7 +18,7 @@
 
 Esta seção do meu repositório de estudos é dedicada exclusivamente às minhas soluções para os laboratórios práticos e exercícios do curso da certificação **CLE (C Certified Entry-Level Programmer)**, chancelado pelo C++ Institute.
 
-O objetivo principal deste material é revisar e solidificar minha base em estruturação de código, gerenciamento e alocação de memória (ponteiros), e manipulação de tipos de dados mais próximos ao hardware, enquanto consolido minha preparação para o exame oficial. 🚀
+O objetivo principal deste material é revisar e solidificar minha base em estruturação de código, gerenciamento e alocação de memória (ponteiros), e manipulação de tipos de dados mais próximos ao hardware, enquanto consolido minha preparação para o teste final. 🚀
 
 ## 🎯 Visão do Projeto e Metodologia (Lean Agile)
 
