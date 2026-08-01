@@ -1,6 +1,7 @@
 import unittest
 import math
-
+git add .
+git commit -m "Resolvendo conflitos de merge"
 from lab_15_triangle import Point, Triangle
 
 # --- TESTES UNITÁRIOS ---
