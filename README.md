@@ -20,7 +20,7 @@ My current focus is preparing for the PCAP certification and strengthening my fo
 | **HackerRank** | [HackerRank](https://github.com/anapaula-carmelita/Estudos/tree/main/python/HackerRank) | [HackerRank](https://github.com/anapaula-carmelita/Estudos/tree/main/C/HackerRank) | ⏸️ 👷🏽‍♀️ *Paused* |
 | **LeetCode** | [LeetCode](https://github.com/anapaula-carmelita/Estudos/tree/main/python/LeetCode) | [LeetCode](https://github.com/anapaula-carmelita/Estudos/tree/main/C/LeetCode) | ⏸️ 👷🏽‍♀️ *Paused* |
 
-### LABs solutions
+### Edube LABs solutions
 | Level| Language | Name | Status |
 | :---: | :---: | :---: | :---: |
 | **Begginer** | ![C](https://img.shields.io/badge/-C-grey) | **[CLE](https://github.com/anapaula-carmelita/Estudos/tree/main/C/c-essentials)** | 🔜 *Coming soon* | 
