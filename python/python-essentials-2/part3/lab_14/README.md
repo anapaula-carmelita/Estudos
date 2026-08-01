@@ -34,7 +34,7 @@
 #### ⚙️ Technical & Business Rules
 
 1. **Encapsulation:** The coordinates `x` and `y` must be private (e.g., `self.__x` and `self.__y`).
-2. **Math Module Integration:** Use `math.hypot(dx, dy)` to compute the length of the hypotenuse (distance).
+2. **Math Module Integration:** Use `math.dist((x1,y1)), (x2,y2))` to compute the length of the hypotenuse (distance).
 3. **Object Collaboration:** The method `distance_from_point` should ideally leverage `getx()` and `gety()` from the passed object to promote good software engineering practices.
 4. **Expected Output Validation:** When running the test code provided by the lab (instantiating points and calling distance methods), it must output:
    `1.4142135623730951`
