@@ -193,9 +193,9 @@ python-essentials-2/
 ### Part 3:  Object-Oriented Programming (OOP) - *The core of the curriculum.*
 - [x] [LAB-09 - Counting Stack](part3/lab_09)
 - [x] [LAB-10 - Queue (FIFO) - Part 1](part3/lab_10)
-- [ ] [LAB-11 - Queue (FIFO) - Part 2](part3/lab_11) [#102](https://github.com/anapaula-carmelita/Estudos/issues/102)
-- [ ] [LAB-12 - Timer Class](part3/lab_12) [#103](https://github.com/anapaula-carmelita/Estudos/issues/103)
-- [ ] [LAB-13 - Points on a Plane](part3/lab_13) [#104](https://github.com/anapaula-carmelita/Estudos/issues/104)
+- [x] [LAB-11 - Queue (FIFO) - Part 2](part3/lab_11) [#102](https://github.com/anapaula-carmelita/Estudos/issues/102)
+- [x] [LAB-12 - Timer Class](part3/lab_12) [#103](https://github.com/anapaula-carmelita/Estudos/issues/103)
+- [x] [LAB-13 - Points on a Plane](part3/lab_13) [#104](https://github.com/anapaula-carmelita/Estudos/issues/104)
 - [ ] [LAB-14 - A Point on a Plane (Distance)](part3/lab_14) [#105](https://github.com/anapaula-carmelita/Estudos/issues/105)
 - [ ] [LAB-15 - Triangle Class](part3/lab_15) [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
 
