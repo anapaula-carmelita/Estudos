@@ -17,16 +17,16 @@ My current focus is preparing for the PCAP certification and strengthening my fo
 
 | Plataforma | ![Python](https://img.shields.io/badge/-Python-blue) | ![C](https://img.shields.io/badge/-C-grey) | Status |
 | :--- | :--- | :---: | :---: |
-| **HackerRank** | [HackerRank](Estudos/python/HackerRank) | [HackerRank](/Estudos/C/HackerRank) | ⏸️ 👷🏽‍♀️ *Paused* |
-| **LeetCode** | [LeetCode](Estudos/python/LeetCode) | [LeetCode](/Estudos/C/LeetCode) | ⏸️ 👷🏽‍♀️ *Paused* |
+| **HackerRank** | [HackerRank](/python/HackerRank/README.md) | [HackerRank](/C/HackerRank/README.md) | ⏸️ 👷🏽‍♀️ *Paused* |
+| **LeetCode** | [LeetCode](/python/LeetCode/README.md) | [LeetCode](/Estudos/C/LeetCode/README.md) | ⏸️ 👷🏽‍♀️ *Paused* |
 
 ### Edube LABs solutions
 | Level| Language | Name | Status |
 | :---: | :---: | :---: | :---: |
-| **Begginer** | ![C](https://img.shields.io/badge/-C-grey) | **[CLE](Estudos/C/c-essentials)** | 🔜 *Coming soon* | 
-| **Intermediate** | ![Python](https://img.shields.io/badge/-Python-blue) | **[PCAP](Estudos/python/python-essentials-2)** | 🟢 *Active* |
+| **Begginer** | ![C](https://img.shields.io/badge/-C-grey) | **[CLE](/C/c-essentials/README.md)** | 🔜 *Coming soon* | 
+| **Intermediate** | ![Python](https://img.shields.io/badge/-Python-blue) | **[PCAP](/python/python-essentials-2/README.md)** | 🟢 *Active* |
 | **Intermediate** | ![C](https://img.shields.io/badge/-C-grey) | CLA | 🔜 *Coming soon* | 
-| **Advanced** | ![Python](https://img.shields.io/badge/-Python-blue) | **[PCPP 1](Estudos/python/python-advanced)** | 🔜 *Coming soon* | 
+| **Advanced** | ![Python](https://img.shields.io/badge/-Python-blue) | **[PCPP 1](/python/python-advanced/README.md)** | 🔜 *Coming soon* | 
 
 ---
 
