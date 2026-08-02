@@ -98,9 +98,6 @@ The scripts and documentation are organized to demonstrate both coding and analy
 ```text
 python-essentials-2/
 │
-├── .github/workflows/          <-- Automated CI/CD pipelines
-│   └── deploy-docs.yml
-│
 ├── assets/
 │   └── user-story-map.jpg
 │
@@ -189,11 +186,27 @@ python-essentials-2/
 |       ├── lab_15_unitest.py
 |       └── README.md
 |
-├── part4/      👷🏽‍♀️ under construction
-│   └── ⏳
+├── part4/      
+│   ├── lab_16/  <!--👷🏽‍♀️ under construction -->
+│   |   └── README.md
+|   |
+│   ├── lab_17/  <!--👷🏽‍♀️ under construction -->
+│   |   └── README.md
+|   |
+│   ├── lab_18/  <!--👷🏽‍♀️ under construction -->
+│   |   └── README.md
+|   |
+│   ├── lab_19/  <!--👷🏽‍♀️ under construction -->
+│   |   └── README.md
+|   |
+│   ├── lab_20/  <!--👷🏽‍♀️ under construction -->
+│   |   └── README.md
+|   |
+│   └── lab_22/  <!--👷🏽‍♀️ under construction -->
+│       └── README.md
 |
 ├── image_ia.png
-├── mkdocs.yml
+|
 └── README.md
 ```
 ## ✅ Lab Progress
@@ -220,12 +233,13 @@ python-essentials-2/
 - [x] [LAB-15 - Triangle Class](part3/lab_15) [#106](https://github.com/anapaula-carmelita/Estudos/issues/106)
 
 ### Part 4: Miscellaneous (File I/O, OS, Datetime, Calendar).
-- [ ] [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
-- [ ] [#97](https://github.com/anapaula-carmelita/Estudos/issues/97)
-- [ ] [#98](https://github.com/anapaula-carmelita/Estudos/issues/98)
-- [ ] [#107](https://github.com/anapaula-carmelita/Estudos/issues/107)
-- [ ] [#99](https://github.com/anapaula-carmelita/Estudos/issues/99)
-- [ ] [#108](https://github.com/anapaula-carmelita/Estudos/issues/108)
+
+- [ ] [LAB-16 - Character Frequency Histogram](lab_16) [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
+- [ ] [LAB-17 - Sorted Character Frequency Histogram (File Output)](lab_17) [#97](https://github.com/anapaula-carmelita/Estudos/issues/97)
+- [ ] [LAB-18 - Evaluating Students' Results](lab_18) [#98](https://github.com/anapaula-carmelita/Estudos/issues/98)
+- [ ] [LAB-19 - Find a Directory!](lab_19) [#107](https://github.com/anapaula-carmelita/Estudos/issues/107)
+- [ ] [LAB-20 - Formatting Date and Time](lab_20) [#99](https://github.com/anapaula-carmelita/Estudos/issues/99)
+- [ ] [LAB-22 - Counting Weekdays in a Year](lab_22) [#108](https://github.com/anapaula-carmelita/Estudos/issues/108)
   
 ## ⚖️ Educational Notice
 
