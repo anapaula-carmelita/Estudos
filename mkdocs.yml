@@ -1,5 +1,6 @@
 site_name: Projetos e User Stories
 site_description: Documentação dos projetos, User Stories e preparativos para os LABs.
+docs_dir: docs
 
 theme:
   name: material
