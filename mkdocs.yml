@@ -1,6 +1,6 @@
 site_name: LABs solutions of Python Essentials 2 course
 site_description: Documentation e User Stories.
-docs_dir: docs
+docs_dir: python/python-essentials-2
 
 theme:
   name: material
