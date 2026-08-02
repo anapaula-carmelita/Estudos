@@ -10,5 +10,5 @@ theme:
 nav:
   - Início: README.md
   - Documentação de User Stories:
-      - Python Essentials 2: python/python-essentials-2/README.md
+      - Python Essentials 2: ../python/python-essentials-2/README.md
       
