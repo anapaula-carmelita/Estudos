@@ -1,5 +1,5 @@
 site_name: Projetos e User Stories
-site_description: Documentação do projeto, User Stories e preparativos para o PCAP.
+site_description: Documentação dos projetos, User Stories e preparativos para os LABs.
 
 theme:
   name: material
@@ -8,8 +8,7 @@ theme:
     accent: blue
 
 nav:
-  - Início: requirements-analysis/index.md
+  - Início: README.md
   - Documentação de User Stories:
-      - Visão Geral do Projeto: requirements-analysis/geral.md
-      - User Story Map: requirements-analysis/user_map_story.md
-      - Rascunhos para o LinkedIn: requirements-analysis/drafts_linkedin.md
+      - Python Essentials 2: python/python-essentials-2/README.md
+      
