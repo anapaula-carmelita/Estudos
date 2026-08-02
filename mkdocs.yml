@@ -1,6 +1,6 @@
-site_name: Projetos e User Stories
-site_description: Documentação dos projetos, User Stories e preparativos para os LABs.
-docs_dir: 
+site_name: Solução dos LABs do curso Python Essentials 2
+site_description: Documentação e User Stories.
+docs_dir: python/python-essentials-2
 
 theme:
   name: material
