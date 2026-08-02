@@ -1,4 +1,4 @@
-# [ID] - [Short Title of the Lab/Feature]
+# [ID] - [Short Title of the LAB/Feature]
 
 ## 📝 User Story
 **As a** [role, e.g., Python Developer/Student],  
