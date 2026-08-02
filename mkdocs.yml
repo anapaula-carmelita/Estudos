@@ -1,5 +1,5 @@
-site_name: LABs solutions of Python Essentials 2 course
-site_description: Documentation e User Stories.
+site_name: Python and Agile Study Portfolio
+site_description: User Stories and others.
 docs_dir: python/python-essentials-2
 
 theme:
