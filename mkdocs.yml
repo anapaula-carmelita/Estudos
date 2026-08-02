@@ -8,8 +8,3 @@ theme:
     primary: indigo
     accent: blue
 
-nav:
-  - Início: ../README.md
-  - Documentação de User Stories:
-      - Python Essentials 2: ../python/python-essentials-2/README.md
-      
