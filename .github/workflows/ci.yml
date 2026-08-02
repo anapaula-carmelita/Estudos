@@ -18,4 +18,4 @@ jobs:
     - name: Rodar testes com pytest
       run: |
         pip install pytest
-        pytest
+        pytest -o python_files="*_unittest.py"
