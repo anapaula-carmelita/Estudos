@@ -93,7 +93,11 @@ The scripts and documentation are organized to demonstrate both coding and analy
 - [ ] 📁 **Files:** File I/O manipulation.
 - [x] ⚙️ **Agile & DevOps:** Requirements analysis, automated testing, and CI/CD workflows.
 
-## 📂 Repository Structure
+## 📂 GitHub
+
+### [Folder on GitHub](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2)
+
+### Folder Repository Structure 
 
 ```text
 python-essentials-2/
