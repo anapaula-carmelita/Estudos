@@ -1,6 +1,6 @@
 site_name: Projetos e User Stories
 site_description: Documentação dos projetos, User Stories e preparativos para os LABs.
-docs_dir: python
+docs_dir: Estudos/docs
 theme:
   name: material
   palette:
