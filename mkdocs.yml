@@ -1,5 +1,5 @@
-site_name: Solução dos LABs do curso Python Essentials 2
-site_description: Documentação e User Stories.
+site_name: LABs solutions of Python Essentials 2 course
+site_description: Documentation e User Stories.
 docs_dir: python/python-essentials-2
 
 theme:
