@@ -108,7 +108,7 @@ python-advanced/
 │
 ├── mkdocs.yml
 └── README.md
-
+```
 ## ⚖️ Educational Notice
 
 This repository contains my own implementations, tests, and technical
