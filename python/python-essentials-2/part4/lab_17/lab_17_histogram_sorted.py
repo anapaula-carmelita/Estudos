@@ -16,20 +16,22 @@ def histogram():
             
             c = stream.read(1)
         
-        for c in sorted(histogram.keys()):
-            print(f'{c}->{histogram[c]}')
+        ordened_list = sorted(histogram.items(), key=lambda x: x[1], reverse=True)
 
-    except FileNotFoundError as e: # CORREÇÃO 2: Garantir o 'as e'
+        stream.close()
+
+        stream = open(filename+'.hist', "w", encoding = "utf-8")
+        for c in ordened_list:
+            stream.write(f'{c[0]}->{c[1]}\n')
+
+    except FileNotFoundError as e: 
         print('FileNotFoundError', e.args)
-        # Se você tinha um "raise e" aqui, certifique-se de que o teste 
-        # está esperando que essa exceção suba, ou remova o raise para
-        # apenas imprimir o erro.
+        
     except IOError as e:
         print('IOError', e.args)
     except BaseException as e:
         print('Error: ', e.args)
     finally:
-        # CORREÇÃO 3: Agora stream existe de forma garantida.
         # Se open() falhou, ele é None (logo, avalia como Falso e não tenta fechar).
         if stream is not None: 
             stream.close()
