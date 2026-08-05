@@ -90,7 +90,7 @@ The scripts and documentation are organized to demonstrate both coding and analy
 - [x] 🔤 **Strings:** Advanced text processing methods.
 - [x] ⚠️ **Exceptions:** Error handling and building custom exception hierarchies.
 - [x] 🧩 **Object-Oriented Programming (OOP):** Classes, methods, inheritance, and polymorphism.
-- [ ] 📁 **Files:** File I/O manipulation.
+- [x] 📁 **Files:** File I/O manipulation.
 - [x] ⚙️ **Agile & DevOps:** Requirements analysis, automated testing, and CI/CD workflows.
 
 ## 📂 GitHub
@@ -191,16 +191,24 @@ python-essentials-2/
 |       └── README.md
 |
 ├── part4/      
-│   ├── lab_16/  <!--👷🏽‍♀️ under construction -->
+│   ├── lab_16/  
+|   |   ├── lab_16_histogram.py
+|   |   ├── lab_16_unitest.py
 │   |   └── README.md
 |   |
-│   ├── lab_17/  <!--👷🏽‍♀️ under construction -->
+│   ├── lab_17/
+|   |   ├── lab_17_histogram_sorted.py
+|   |   ├── lab_17_unitest.py
 │   |   └── README.md
 |   |
-│   ├── lab_18/  <!--👷🏽‍♀️ under construction -->
+│   ├── lab_18/  
+|   |   ├── lab_18_evalstudents.py
+|   |   ├── lab_18_unitest.py
 │   |   └── README.md
 |   |
 │   ├── lab_19/  <!--👷🏽‍♀️ under construction -->
+|   |   ├── lab_19_finddir.py
+|   |   ├── lab_19_unitest.py
 │   |   └── README.md
 |   |
 │   ├── lab_20/  <!--👷🏽‍♀️ under construction -->
@@ -238,9 +246,9 @@ python-essentials-2/
 
 ### Part 4: Miscellaneous (File I/O, OS, Datetime, Calendar).
 
-- [ ] [LAB-16 - Character Frequency Histogram](lab_16) [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
-- [ ] [LAB-17 - Sorted Character Frequency Histogram (File Output)](lab_17) [#97](https://github.com/anapaula-carmelita/Estudos/issues/97)
-- [ ] [LAB-18 - Evaluating Students' Results](lab_18) [#98](https://github.com/anapaula-carmelita/Estudos/issues/98)
+- [x] [LAB-16 - Character Frequency Histogram](lab_16) [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
+- [x] [LAB-17 - Sorted Character Frequency Histogram (File Output)](lab_17) [#97](https://github.com/anapaula-carmelita/Estudos/issues/97)
+- [x] [LAB-18 - Evaluating Students' Results](lab_18) [#98](https://github.com/anapaula-carmelita/Estudos/issues/98)
 - [ ] [LAB-19 - Find a Directory!](lab_19) [#107](https://github.com/anapaula-carmelita/Estudos/issues/107)
 - [ ] [LAB-20 - Formatting Date and Time](lab_20) [#99](https://github.com/anapaula-carmelita/Estudos/issues/99)
 - [ ] [LAB-22 - Counting Weekdays in a Year](lab_22) [#108](https://github.com/anapaula-carmelita/Estudos/issues/108)
