@@ -206,17 +206,20 @@ python-essentials-2/
 |   |   ├── lab_18_unitest.py
 │   |   └── README.md
 |   |
-│   ├── lab_19/  <!--👷🏽‍♀️ under construction -->
+│   ├── lab_19/  
 |   |   ├── lab_19_finddir.py
 |   |   ├── lab_19_unitest.py
 │   |   └── README.md
 |   |
-│   ├── lab_20/  <!--👷🏽‍♀️ under construction -->
+│   ├── lab_20/  
+|   |   ├── lab_20_datetimeandtime.py
+|   |   ├── lab_20_unitest.py
 │   |   └── README.md
 |   |
-│   └── lab_22/  <!--👷🏽‍♀️ under construction -->
+│   └── lab_22/  
+|       ├── lab_22_countweekday.py
+|       ├── lab_22_unitest.py
 │       └── README.md
-|
 ├── image_ia.png
 |
 └── README.md
@@ -249,9 +252,9 @@ python-essentials-2/
 - [x] [LAB-16 - Character Frequency Histogram](lab_16) [#96](https://github.com/anapaula-carmelita/Estudos/issues/96)
 - [x] [LAB-17 - Sorted Character Frequency Histogram (File Output)](lab_17) [#97](https://github.com/anapaula-carmelita/Estudos/issues/97)
 - [x] [LAB-18 - Evaluating Students' Results](lab_18) [#98](https://github.com/anapaula-carmelita/Estudos/issues/98)
-- [ ] [LAB-19 - Find a Directory!](lab_19) [#107](https://github.com/anapaula-carmelita/Estudos/issues/107)
-- [ ] [LAB-20 - Formatting Date and Time](lab_20) [#99](https://github.com/anapaula-carmelita/Estudos/issues/99)
-- [ ] [LAB-22 - Counting Weekdays in a Year](lab_22) [#108](https://github.com/anapaula-carmelita/Estudos/issues/108)
+- [x] [LAB-19 - Find a Directory!](lab_19) [#107](https://github.com/anapaula-carmelita/Estudos/issues/107)
+- [x] [LAB-20 - Formatting Date and Time](lab_20) [#99](https://github.com/anapaula-carmelita/Estudos/issues/99)
+- [x] [LAB-22 - Counting Weekdays in a Year](lab_22) [#108](https://github.com/anapaula-carmelita/Estudos/issues/108)
   
 ## ⚖️ Educational Notice
 
