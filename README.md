@@ -25,7 +25,7 @@ My current focus is preparing for the PCAP certification and strengthening my fo
 | :---: | :---: | :---: | :---: |
 | **Begginer** | ![C](https://img.shields.io/badge/-C-grey) | **[CLE](https://github.com/anapaula-carmelita/Estudos/tree/main/C/c-essentials)** | 🟢 *Active* | 
 | **Intermediate** | ![Python](https://img.shields.io/badge/-Python-blue) | **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2)** | ✅ *Done* |
-| **Intermediate** | ![C](https://img.shields.io/badge/-C-grey) | CLA | 🔜 *Coming soon* | 
+| **Intermediate** | ![C](https://img.shields.io/badge/-C-grey) | **[CLA](https://github.com/anapaula-carmelita/Estudos/tree/main/C/c-essentials-2)** | 🔜 *Coming soon* | 
 | **Advanced** | ![Python](https://img.shields.io/badge/-Python-blue) | **[PCPP 1](python/python-advanced)** | 🔜 *Coming soon* | 
 
 ---
