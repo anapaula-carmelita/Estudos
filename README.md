@@ -23,7 +23,7 @@ My current focus is preparing for the PCAP certification and strengthening my fo
 ### Edube LABs solutions
 | Level| Language | Name | Status |
 | :---: | :---: | :---: | :---: |
-| **Begginer** | ![C](https://img.shields.io/badge/-C-grey) | **[CLE](https://github.com/anapaula-carmelita/Estudos/tree/main/C/c-essentials)** | 🔜 *Coming soon* | 
+| **Begginer** | ![C](https://img.shields.io/badge/-C-grey) | **[CLE](https://github.com/anapaula-carmelita/Estudos/tree/main/C/c-essentials)** | 🟢 *Active* | 
 | **Intermediate** | ![Python](https://img.shields.io/badge/-Python-blue) | **[PCAP](https://github.com/anapaula-carmelita/Estudos/tree/main/python/python-essentials-2)** | ✅ *Done* |
 | **Intermediate** | ![C](https://img.shields.io/badge/-C-grey) | CLA | 🔜 *Coming soon* | 
 | **Advanced** | ![Python](https://img.shields.io/badge/-Python-blue) | **[PCPP 1](python/python-advanced)** | 🔜 *Coming soon* | 
@@ -48,7 +48,7 @@ I seek truth in the pages of *La Salette* and exactness in my code.
 * **IT Service Management:** ITIL v3 Foundation ✅
 * **Computer Science:** CS50 (Harvard University) ✅
 * **Web Development:** HTML5 (W3C) ✅
-* **Python:** PCEP (Entry-Level) ✅ | PCAP (Associate) ⏳
+* **Python:** PCEP (Entry-Level) ✅ | PCAP (Associate) ✅
 
 ---
 
